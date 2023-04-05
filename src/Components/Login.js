@@ -1,6 +1,7 @@
 import './Login.css'
 import React from 'react'
 const Login = ()=>{
+  console.log("check");
     return(
         <div class="login-container">
         <h1>Login</h1>
